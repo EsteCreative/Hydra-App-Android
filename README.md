@@ -7,7 +7,7 @@ Hydra für Android
   
 ## 📱 Hydra installieren (Android)
 
-Du kannst die **Hydra** App direkt über die [Releases](https://github.com/`<benutzername>`/`<repo-name>`/releases) dieses Repositories installieren.
+Du kannst die **Hydra** App direkt über die [Releases](https://github.com/EsteCreative/Hydra-App-Android/releases) dieses Repositories installieren.
 
 ### 🔽 Schritt 1: APK herunterladen
 
